@@ -1,0 +1,8 @@
+<testsuites name="Mocha Tests">
+  <testsuite name="Employee API" tests="1" errors="0" failures="0" skipped="0" timestamp="2019-11-22T15:01:22" time="0.04">
+    <testcase classname="Employee API" name="Should return employee by specified ID" time="0.033">
+      <system-out><![CDATA[{ id: '1', username: 'Robin Wieruch' }
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
