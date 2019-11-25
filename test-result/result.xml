@@ -1,8 +1,10 @@
 <testsuites name="Mocha Tests">
-  <testsuite name="Employee API" tests="1" errors="0" failures="0" skipped="0" timestamp="2019-11-22T15:01:22" time="0.04">
-    <testcase classname="Employee API" name="Should return employee by specified ID" time="0.033">
-      <system-out><![CDATA[{ id: '1', username: 'Robin Wieruch' }
-]]></system-out>
+  <testsuite name="Express API user" tests="1" errors="0" failures="0" skipped="0" timestamp="2019-11-25T13:41:04" time="0.085">
+    <testcase classname="Express API user" name="Should return user by specified ID" time="0.07">
+    </testcase>
+  </testsuite>
+  <testsuite name="Express API message" tests="1" errors="0" failures="0" skipped="0" timestamp="2019-11-25T13:41:05" time="0.015">
+    <testcase classname="Express API message" name="should be created" time="0.014">
     </testcase>
   </testsuite>
 </testsuites>
